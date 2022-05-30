@@ -1,2 +1,2 @@
 # Assets
-https://glitch.com/~snakefever
+snakefever.jar: https://glitch.com/~snakefever
